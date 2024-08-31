@@ -22,7 +22,6 @@ function DynamicPage() {
   return (
     <div>
       <h1>Dynamic Page</h1>
-      <p>Type: {type}</p>
 
       <div>
         {Object.keys(data).map((key) => (
