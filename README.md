@@ -14,4 +14,4 @@ For the 'Fetch ip' button, it will hit the route `http://ip.jsontest.com` and di
 
 ### Run project in dev
 
-run `npm run build` then run `npm run preview`
+run `npm install` then run `npm run dev`
